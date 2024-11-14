@@ -7,8 +7,8 @@ sites:
     url: https://vmod.isaic.ca/app/authentication/sign-in
   - name: ISAIC Website
     url: https://isaic.ca
-  - name: Pricing Calculator
-    url: https://pricing-calculator.isaic.ai
+  - name: Pricing Backend
+    url: https://calc-backend-api.isaic.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
