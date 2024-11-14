@@ -1,22 +1,22 @@
 [
   {
     "name": "VMondemand",
-    "url": "https://vmod.isaic.ca",
+    "url": "https://vmod.isaic.ca/app/authentication/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/vmod.isaic.ca.ico",
     "slug": "v-mondemand",
-    "status": "down",
-    "uptime": "15.92%",
-    "uptimeDay": "15.92%",
-    "uptimeWeek": "15.92%",
-    "uptimeMonth": "15.92%",
-    "uptimeYear": "15.92%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1271,
-    "timeWeek": 1271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "time": 714,
+    "timeDay": 714,
+    "timeWeek": 714,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {}
   }
 ]
