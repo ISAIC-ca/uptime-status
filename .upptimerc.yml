@@ -4,7 +4,7 @@ repo: uptime-status # The name of this repository
 
 sites:
   - name: VMondemand
-    url: https://vmod.isaic.ca
+    url: https://vmod.isaic.ca/app/authentication/sign-in
   - name: ISAIC Website
     url: https://isaic.ca
 
