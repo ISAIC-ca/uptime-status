@@ -29,6 +29,6 @@ status-website:
       href: https://vmod.isaic.ca/app/authentication/sign-in
 
 i18n:
-  footer:  
+  footer: Powered by Upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
