@@ -28,5 +28,7 @@ status-website:
     - title: VMondemand
       href: https://vmod.isaic.ca/app/authentication/sign-in
 
+i18n:
+  footer:  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
