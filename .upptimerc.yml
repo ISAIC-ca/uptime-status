@@ -16,7 +16,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # https://github.com/ISAIC-ca/uptime-status/blob/master/assets/logo.png
+  logoUrl: https://raw.githubusercontent.com/ISAIC-ca/uptime-status/master/assets/logo.png
   name: ISAIC Uptime Status
   introTitle: "**ISAIC** Services Status"
   introMessage: This page displays the status of the services ISAIC provides. 
