@@ -20,6 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ISAIC-ca/uptime-status/master/assets/logo.png
   name: ISAIC Uptime Status
   introTitle: "**ISAIC** Services Status"
+  favicon: https://vmod.isaic.ca/app/favicon.ico
   introMessage: This page displays the status of the services ISAIC provides. 
   navbar:
     - title: ISAIC Website
