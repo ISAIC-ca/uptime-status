@@ -24,7 +24,7 @@
     "url": "$ISAIC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isaic-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 876,
     "timeMonth": 876,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 0
+    }
   },
   {
     "name": "Openstack Infrastructure",
