@@ -4,11 +4,11 @@ repo: uptime-status # The name of this repository
 
 sites:
   - name: VMondemand
-    url: https://vmod.isaic.ca/app/authentication/sign-in
+    url: $VMOD_URL
   - name: ISAIC Website
-    url: https://isaic.ca
+    url: $ISAIC_URL
   - name: Openstack Infrastructure
-    url: https://aihubdb.ece.ualberta.ca/auth/login/?next=/
+    url: $INFRA_URL
     __dangerous__insecure: true
     
 status-website:
