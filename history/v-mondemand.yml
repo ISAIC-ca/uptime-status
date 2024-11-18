@@ -1,7 +1,7 @@
-url: https://vmod.isaic.ca/app/authentication/sign-in
+url: $VMOD_URL
 status: up
 code: 200
-responseTime: 274
-lastUpdated: 2024-11-17T23:17:41.037Z
+responseTime: 248
+lastUpdated: 2024-11-18T17:56:51.083Z
 startTime: 2024-11-14T01:26:11.239Z
 generator: Upptime <https://github.com/upptime/upptime>
