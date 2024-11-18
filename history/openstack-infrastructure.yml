@@ -1,7 +1,7 @@
-url: https://aihubdb.ece.ualberta.ca/auth/login/?next=/
+url: $INFRA_URL
 status: up
 code: 200
-responseTime: 475
-lastUpdated: 2024-11-17T23:17:42.120Z
+responseTime: 393
+lastUpdated: 2024-11-18T17:56:52.076Z
 startTime: 2024-11-14T19:11:29.807Z
 generator: Upptime <https://github.com/upptime/upptime>
