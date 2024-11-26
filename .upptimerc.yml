@@ -7,7 +7,7 @@ sites:
     url: $VMOD_URL
   - name: ISAIC Website
     url: $ISAIC_URL
-  - name: Openstack Infrastructure
+  - name: OpenStack Infrastructure
     url: $INFRA_URL
     __dangerous__insecure: true
     
