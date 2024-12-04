@@ -7,7 +7,7 @@ sites:
     url: $VMOD_URL
   - name: ISAIC Website
     url: $ISAIC_URL
-  - name: Openstack Cluster
+  - name: OpenStack Cluster
     url: $INFRA_URL
     __dangerous__insecure: true
     
@@ -26,7 +26,7 @@ status-website:
   navbar:
     - title: ISAIC Website
       href: https://www.isaic.ca
-    - title: VMondemand
+    - title: VMonDemand
       href: https://vmod.isaic.ca/app/authentication/sign-in
 
 i18n:
