@@ -10,6 +10,8 @@ sites:
   - name: OpenStack Cluster
     url: $INFRA_URL
     __dangerous__insecure: true
+  - name: AI Ecosystem Map
+    url: https://ecosystem.isaic.ai/aiml/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
