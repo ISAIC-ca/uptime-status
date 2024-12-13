@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v-mon-demand",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "93.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.56%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "92.94%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "93.26%",
     "time": 255,
     "timeDay": 252,
     "timeWeek": 249,
@@ -61,7 +61,7 @@
     "url": "https://ecosystem.isaic.ai/aiml/",
     "icon": "https://icons.duckduckgo.com/ip3/ecosystem.isaic.ai.ico",
     "slug": "ai-ecosystem-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,8 @@
     "timeWeek": 423,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   }
 ]
