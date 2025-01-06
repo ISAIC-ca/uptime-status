@@ -61,19 +61,19 @@
     "url": "https://ecosystem.isaic.ai/aiml/",
     "icon": "https://icons.duckduckgo.com/ip3/ecosystem.isaic.ai.ico",
     "slug": "ai-ecosystem-map",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 346,
-    "timeWeek": 357,
-    "timeMonth": 974,
-    "timeYear": 950,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 931,
+    "timeDay": 317,
+    "timeWeek": 346,
+    "timeMonth": 953,
+    "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-01-06": 0
+      "2025-01-06": 32
     }
   }
 ]
