@@ -4,10 +4,10 @@
     "url": "$VMOD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v-mon-demand",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.19%",
     "time": 263,
@@ -16,6 +16,7 @@
     "timeMonth": 269,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-12-09": 1029,
       "2024-12-08": 628
     }
@@ -46,7 +47,7 @@
     "url": "$INFRA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-stack-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,7 +58,9 @@
     "timeWeek": 397,
     "timeMonth": 451,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "AI Ecosystem Map",
