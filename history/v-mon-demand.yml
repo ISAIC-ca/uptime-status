@@ -1,7 +1,7 @@
 url: $VMOD_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-11T22:25:04.047Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2025-03-11T22:41:12.827Z
 startTime: 2024-11-26T17:43:14.708Z
 generator: Upptime <https://github.com/upptime/upptime>
