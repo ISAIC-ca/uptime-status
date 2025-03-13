@@ -1,7 +1,7 @@
 url: https://ecosystem.isaic.ai/aiml/
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2025-03-12T23:17:31.322Z
+status: down
+code: 530
+responseTime: 106
+lastUpdated: 2025-03-13T02:26:19.196Z
 startTime: 2024-12-05T19:37:49.235Z
 generator: Upptime <https://github.com/upptime/upptime>
