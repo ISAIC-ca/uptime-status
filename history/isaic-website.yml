@@ -1,7 +1,7 @@
 url: $ISAIC_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-17T01:48:25.792Z
+status: up
+code: 200
+responseTime: 440
+lastUpdated: 2026-06-17T06:53:25.151Z
 startTime: 2024-11-14T01:26:14.591Z
 generator: Upptime <https://github.com/upptime/upptime>
